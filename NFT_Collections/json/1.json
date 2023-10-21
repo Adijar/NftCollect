@@ -1,0 +1,15 @@
+{
+  "name": "Patrick #1",
+  "description": "Patrick is a starfish",
+  "image": "ipfs://Qmerr1bgynfWYuymtzULEEhsohJua3cQ31zxdG4JjYLAbd",
+  "attributes": [
+    {
+        "trait_type": "Language",
+        "value": "JS"
+    },
+    {
+        "trait_type": "Cartoon Character",
+        "value": "Starfish"
+    }
+  ]
+}

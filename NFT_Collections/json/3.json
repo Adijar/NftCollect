@@ -1,0 +1,15 @@
+{
+  "name": "Squidward #3",
+  "description": "Squidward is an octopus!",
+  "image": "ipfs://Qmf2bd27DTSbynY5ezGCcH1TPZEaF4ji6FUf9Ewbyd1Yv6",
+  "attributes": [
+    {
+        "trait_type": "Language",
+        "value": "JS"
+    },
+    {
+        "trait_type": "Cartoon Character",
+        "value": "Octopus"
+    }
+  ]
+}

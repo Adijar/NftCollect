@@ -1,0 +1,15 @@
+{
+  "name": "Turtle #0",
+  "description": "Turtle is able to move at rapid speed as speedstar",
+  "image": "ipfs://QmVddzZk87zVbFbAAYCnoYreKcHPkxfwgnjsGrubCegxCZ",
+  "attributes": [
+    {
+        "trait_type": "Language",
+        "value": "JS"
+    },
+    {
+        "trait_type": "Cartoon",
+        "value": "Little Turtle"
+    }
+  ]
+}

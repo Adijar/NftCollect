@@ -1,0 +1,15 @@
+{
+  "name": "Spongebob #2",
+  "description": "Spongebob is a sponge!",
+  "image": "ipfs://Qmerr1bgynfWYuymtzULEEhsohJua3cQ31zxdG4JjYLAbdQmVzj7rM9g4Y9FJ4vxLTvqz6xMnrn7Se87mfvrSjVyZYjj",
+  "attributes": [
+    {
+        "trait_type": "Language",
+        "value": "JS"
+    },
+    {
+        "trait_type": "Cartoon Character",
+        "value": "Sponge"
+    }
+  ]
+}
